@@ -118,8 +118,8 @@ Execute the program
 </html>
 ```
 
-# OUPUT
-![OUTPUT](http://manojmv.student.saveetha.in:8000/static/images/output.png?raw=true)
+# OUTPUT
+![OUTPUT](./in.png)
 
 # HTML VALIDATOR
 ![HTML VALIDATOR](http://manojmv.student.saveetha.in:8000/static/images/valid.png?raw=true)
