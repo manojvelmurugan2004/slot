@@ -122,7 +122,7 @@ Execute the program
 ![OUTPUT](./in.png)
 
 # HTML VALIDATOR
-![HTML VALIDATOR](http://manojmv.student.saveetha.in:8000/static/images/valid.png?raw=true)
+![HTML VALIDATOR](./valid.png)
 
 # RESULT
 The program for creating slot timetable is completed successfully
